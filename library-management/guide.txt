@@ -1,0 +1,5 @@
+xem đống bootstrap trong <head> của public/index.html
+
+import 'bootstrap/dist/css/bootstrap.css'; tại index.js
+
+@CrossOrigin(origins = "http://localhost:3000") tại RestController
